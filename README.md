@@ -20,5 +20,6 @@ Bandit is a beginner-friendly wargame designed to teach:
 | Level | Status |
 |------|--------|
 | 0 → 5 | ✅ Completed |
-| 6 → 10 | 🔄 In Progress |
-| 11+ | ⏳ Upcoming |
+| 6 → 10 | ✅ Completed |
+| 11 → 15 | 🔄 In Progress |
+| 16+ | ⏳ Upcoming |
